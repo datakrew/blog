@@ -21,7 +21,7 @@ copyright = "&copy; Copyright 2019 DataKrew"
   # Date format
   #dateFormat = "January 2, 2006"
   # Put images/favicon.ico file
-  #favicon = "images/datakrew-favicon.ico"
+  favicon = "images/datakrew-favicon.ico"
 
 # This is displayer in About page.
 [params.author]
